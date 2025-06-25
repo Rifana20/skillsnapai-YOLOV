@@ -1,0 +1,7 @@
+streamlit
+cohere
+pdfminer.six
+ultralytics
+opencv-python
+python-dotenv
+

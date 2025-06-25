@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.env
+*.pt  # YOLO model
+*.pdf
+*.jpg
+*.png
