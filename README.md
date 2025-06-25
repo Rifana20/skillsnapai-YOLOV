@@ -1,5 +1,5 @@
 
-````markdown
+---
 # 📊 SkillSnap AI
 
 **SkillSnap AI** is an AI-powered LinkedIn profile optimizer that helps professionals enhance their profile with:
@@ -89,7 +89,6 @@ Pull requests and suggestions are welcome! For major changes, please open an iss
 
 This project is under the [MIT License](LICENSE).
 
----
 
 ## 📬 Contact
 
