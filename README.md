@@ -1,7 +1,4 @@
 
-
----
-
 ````markdown
 # 📊 SkillSnap AI
 
@@ -99,18 +96,4 @@ This project is under the [MIT License](LICENSE).
 Built with ❤️ by **Rifana Sherin**
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rifanasherin)
 
-```
-
----
-
-## ✅ Next Steps (Optional but Great):
-
-- ✅ Add a `LICENSE` file (MIT is good for open-source).
-- ✅ Add a `demo.gif` or short screen recording in `README`.
-- ✅ Add error handling for file formats and long inputs.
-- ✅ Optionally replace `YOLOv8s.pt` with `YOLOv8n.pt` (nano version) for faster inference.
-
----
-
-Let me know if you'd like help creating a logo, adding themes to Streamlit, or deploying this on the cloud (like **Streamlit Community Cloud**, **Render**, or **Railway**).
 ```
