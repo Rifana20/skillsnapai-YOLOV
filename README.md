@@ -90,9 +90,9 @@ Pull requests and suggestions are welcome! For major changes, please open an iss
 This project is under the [MIT License](LICENSE).
 
 
-## 📬 Contact
+## Contact
 
-Built with ❤️ by **Rifana Sherin**
+Built with by **Rifana Sherin**
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rifanasherin)
 
 ```
