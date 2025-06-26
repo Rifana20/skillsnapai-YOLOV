@@ -1,16 +1,16 @@
 
 ---
-# 📊 SkillSnap AI
+# SkillSnap AI
 
 **SkillSnap AI** is an AI-powered LinkedIn profile optimizer that helps professionals enhance their profile with:
-- ✅ Optimized LinkedIn headlines
-- 📝 Polished "About Me" sections
-- 📸 Profile picture face detection using YOLOv8
-- 💬 AI-generated networking/connection messages
+- Optimized LinkedIn headlines
+- Polished "About Me" sections
+- Profile picture face detection using YOLOv8
+- AI-generated networking/connection messages
 
 ---
 
-## 🚀 Features
+## Features
 
 - **LinkedIn PDF Parser** – Extract and improve your current headline and about section.
 - **AI-Powered Rewriting** – Uses Cohere LLMs to rewrite sections professionally.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - `Streamlit` – Frontend UI
 - `Cohere` – Large Language Model API
@@ -29,7 +29,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/skillsnapai.git
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Setup API Keys
+## Setup API Keys
 
 Create a `.env` file:
 
@@ -53,7 +53,7 @@ Place it in the root of the project. This keeps your keys secure and hidden from
 
 ---
 
-## ▶️ Run the App
+## Run the App
 
 ```bash
 streamlit run app.py
@@ -61,7 +61,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 skillsnapai/
@@ -79,13 +79,13 @@ skillsnapai/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests and suggestions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-## 📄 License
+## License
 
 This project is under the [MIT License](LICENSE).
 
